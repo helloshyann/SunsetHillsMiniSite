@@ -14,4 +14,4 @@ Credits to these artists from dafont.com from providing the fonts I used in this
 ## See This Website
 [SUNSET HILLS | A Coding Challenge](https://sunsethillsj.netlify.app)
 
-© Shyann Jobe 2020
+[© Shyann Jobe 2020](https://shyann.netlify.app)
